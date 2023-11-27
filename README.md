@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishudh Gupta</h1>
-<h3 align="center">A React Enthusiast with great intrest creating responsive and beautiful user interfaces.</h3>
+<h3 align="center">A React Enthusiast with great interest in creating responsive and beautiful user interfaces.</h3>
 
 
 
@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
-- 🔭 I’m currently working on **Scheduleon**
+- 🔭 I’m currently working on **Freelance Projects**
 
 - 🌱 I’m currently learning **Angular.js , React.js**
 
